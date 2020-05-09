@@ -3,7 +3,7 @@
 
 ソースコードは[こちら](https://github.com/takpika/SlideBukkonuki-alt/Python/SlideBukkonuki.py)
 
-##必要モジュール
+##　必要モジュール
 ```
 opencv
 numpy
